@@ -3,3 +3,5 @@ Browser Automation is the technique of control Web pages using Script. I've used
 
 
 download selenium. (pip install selenium)
+
+download chromedriver http://chromedriver.chromium.org/
